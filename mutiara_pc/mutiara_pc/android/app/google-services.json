@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "213261474521",
+    "project_id": "mutiara-pc-app",
+    "storage_bucket": "mutiara-pc-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213261474521:android:57aced931c12ed877efcc8",
+        "android_client_info": {
+          "package_name": "com.example.mutiara_pc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYzXTXhkz37E7kXEJXJivIJLGwTe4d7z0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213261474521:android:04c15b5d956907c07efcc8",
+        "android_client_info": {
+          "package_name": "com.mutiara_pc.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYzXTXhkz37E7kXEJXJivIJLGwTe4d7z0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
